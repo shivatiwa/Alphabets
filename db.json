@@ -2,7 +2,7 @@
   {  
      "cardid":"1",
      "title":"Aa",
-     "phrase":"the collateral meanings of a word",
+     "phrase1":"'Apple'",
      "image":"https://upload.wikimedia.org/wikipedia/commons/3/35/Spartan_apple.jpg",
      "image2":"https://cdn.pixabay.com/photo/2015/09/23/16/29/ant-954015_960_720.jpg",
      "image3":""
@@ -10,7 +10,7 @@
   {  
      "cardid":"2",
      "title":"Bb",
-     "phrase":"the collateral meanings of a word",
+     "phrase1":"'Ball'",
      "image":"https://c1.staticflickr.com/5/4586/27248626739_3d54a181e4_b.jpg",
      "image2":"https://www.nps.gov/lacl/planyourvisit/images/Image-w-cred-cap_-1200w_-Bear-Safety-Page_-sow-with-cub_2.jpg",
      "image3":""
@@ -18,192 +18,192 @@
   {  
      "cardid":"3",
      "title":"Cc",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"",
+     "image":"",
      "image2":"https://images.pexels.com/photos/271608/pexels-photo-271608.jpeg?cs=srgb&dl=camel-desert-dromedary-271608.jpg&fm=jpg",
      "image3":""
   },
   {  
      "cardid":"4",
      "title":"Dd",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA4OC85MTEvb3JpZ2luYWwvZ29sZGVuLXJldHJpZXZlci1wdXBweS5qcGVn",
      "image3":""
   },
   {  
      "cardid":"5",
      "title":"Ee",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_960_720.jpg",
      "image3":""
   },
   {  
      "cardid":"6",
      "title":"Ff",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://www.publicdomainpictures.net/pictures/230000/velka/red-fox-1500907744R2q.jpg",
      "image3":""
   },
   {  
      "cardid":"7",
      "title":"Gg",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giraffe_standing.jpg/575px-Giraffe_standing.jpg",
      "image3":""
   },
   {  
      "cardid":"8",
      "title":"Hh",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg",
      "image3":""
   },
   {  
      "cardid":"9",
      "title":"Ii",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://c1.staticflickr.com/7/6163/6177536540_da24dc5aa9_b.jpg",
      "image3":""
   },
   {  
      "cardid":"10",
      "title":"Jj",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Jaguar_head_shot-edit2.jpg",
      "image3":""
   },
   {  
      "cardid":"11",
      "title":"Kk",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/en/c/c8/Forrester-Kangaroo-mob.jpg",
      "image3":""
   },
   {  
      "cardid":"12",
      "title":"Ll",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://cdn.pixabay.com/photo/2016/01/02/16/53/lion-1118467_960_720.jpg",
      "image3":""
   },
   {  
      "cardid":"13",
      "title":"Mm",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://www.maxpixel.net/static/photo/1x/Forest-Woods-Animal-Monkey-Wildlife-2588501.jpg",
      "image3":""
   },
   {  
      "cardid":"14",
      "title":"Nn",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://c1.staticflickr.com/1/224/506001742_1502f39319_z.jpg?zz=1",
      "image3":""
   },
   {  
      "cardid":"15",
      "title":"Oo",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Sea_Otter._Little_Tutka_Bay%2C_Alaska.jpg",
      "image3":""
   },
   {  
      "cardid":"16",
      "title":"Pp",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/5/57/Penguin_shuvuu.jpg",
      "image3":""
   },
   {  
      "cardid":"17",
      "title":"Qq",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"",
      "image3":""
   },
   {  
      "cardid":"18",
      "title":"Rr",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg",
      "image3":""
   },
   {  
      "cardid":"19",
      "title":"Ss",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/0/00/Common_Seal_Phoca_vitulina.jpg",
      "image3":""
   },
   {  
      "cardid":"20",
      "title":"Tt",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://cdn.pixabay.com/photo/2016/11/29/10/07/animal-1868911_960_720.jpg",
      "image3":""
   },
   {  
      "cardid":"21",
      "title":"Uu",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"",
      "image3":""
   },
   {  
      "cardid":"22",
      "title":"Vv",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"",
      "image3":""
   },
   {  
      "cardid":"23",
      "title":"Ww",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/A-G/gray-wolf-snow.ngsversion.1466004545814.jpg",
      "image3":""
   },
   {  
      "cardid":"24",
      "title":"Xx",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"",
      "image3":""
   },
   {  
      "cardid":"25",
      "title":"Yy",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Bos_grunniens_at_Yundrok_Yumtso_Lake.jpg",
      "image3":""
   },
   {  
      "cardid":"26",
      "title":"Zz",
-     "phrase":"the collateral meanings of a word",
-     "image":"https://4.bp.blogspot.com/-mMwsdcGHzGA/WwPNKPrKvsI/AAAAAAAAAMc/blHPHoYMTVQmaWXu-b2vG61HKKrKN41xQCLcBGAs/s400/Collateral.png",
+     "phrase1":"the collateral meanings of a word",
+     "image":"",
      "image2":"https://upload.wikimedia.org/wikipedia/commons/0/07/Zebra_Botswana_edit.jpg",
      "image3":""
   }
