@@ -50,5 +50,283 @@
     "image2":
       "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA4OC85MTEvb3JpZ2luYWwvZ29sZGVuLXJldHJpZXZlci1wdXBweS5qcGVn",
     "image3": ""
+  },
+  {
+    "cardid": "5",
+    "title": "Ee",
+    "phrase1": "Earth",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/225px-The_Earth_seen_from_Apollo_17.jpg",
+    "image2":
+      "https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_960_720.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "6",
+    "title": "Ff",
+    "phrase1": "Flower",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://cdn.pixabay.com/photo/2017/10/30/12/07/dahlia-2902284_960_720.png",
+    "image2":
+      "https://www.publicdomainpictures.net/pictures/230000/velka/red-fox-1500907744R2q.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "7",
+    "title": "Gg",
+    "phrase1": "Grapes",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://images.pexels.com/photos/60021/grapes-wine-fruit-vines-60021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giraffe_standing.jpg/575px-Giraffe_standing.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "8",
+    "title": "Hh",
+    "phrase1": "Hat",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "http://res.freestockphotos.biz/pictures/15/15138-illustration-of-a-hat-pv.png",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "9",
+    "title": "Ii",
+    "phrase1": "Ice-Cream",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://cdn.pixabay.com/photo/2017/09/16/13/14/chocolate-ice-cream-2755456_960_720.jpg",
+    "image2": "https://c1.staticflickr.com/7/6163/6177536540_da24dc5aa9_b.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "10",
+    "title": "Jj",
+    "phrase1": "Jelly",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Food-Jelly.svg/2000px-Food-Jelly.svg.png",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jaguar_head_shot-edit2.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "11",
+    "title": "Kk",
+    "phrase1": "Kite",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1": "https://c1.staticflickr.com/3/2600/3985783648_4702b45d13_b.jpg",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/en/c/c8/Forrester-Kangaroo-mob.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "12",
+    "title": "Ll",
+    "phrase1": "Lamp",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://www.maxpixel.net/static/photo/1x/Lighting-Night-Table-Lamp-Light-Bedside-Table-843461.jpg",
+    "image2":
+      "https://cdn.pixabay.com/photo/2016/01/02/16/53/lion-1118467_960_720.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "13",
+    "title": "Mm",
+    "phrase1": "Moon",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://cdn.pixabay.com/photo/2016/11/25/23/15/moon-1859616_960_720.jpg",
+    "image2":
+      "https://www.maxpixel.net/static/photo/1x/Forest-Woods-Animal-Monkey-Wildlife-2588501.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "14",
+    "title": "Nn",
+    "phrase1": "Nest",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/Illustrations_of_the_Nests_and_Eggs_of_Birds_of_Ohio_-_Plate_II_-_Smithsonian.jpg",
+    "image2":
+      "https://c1.staticflickr.com/1/224/506001742_1502f39319_z.jpg?zz=1",
+    "image3": ""
+  },
+  {
+    "cardid": "15",
+    "title": "Oo",
+    "phrase1": "Orange",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sea_Otter._Little_Tutka_Bay%2C_Alaska.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "16",
+    "title": "Pp",
+    "phrase1": "Pen",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/en/0/04/Gold_Parker_I.M_Pen.JPG",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/5/57/Penguin_shuvuu.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "17",
+    "title": "Qq",
+    "phrase1": "quill",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://www.publicdomainpictures.net/pictures/80000/velka/ink-and-feather-quill-clipart.jpg",
+    "image2": "",
+    "image3": ""
+  },
+  {
+    "cardid": "18",
+    "title": "Rr",
+    "phrase1": "Rainbow",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/PEO-rainbow_solid.svg/2000px-PEO-rainbow_solid.svg.png",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "19",
+    "title": "Ss",
+    "phrase1": "Ship",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ship.svg/2000px-Ship.svg.png",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/0/00/Common_Seal_Phoca_vitulina.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "20",
+    "title": "Tt",
+    "phrase1": "Tree",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bright_green_tree_-_Waikato.jpg",
+    "image2":
+      "https://cdn.pixabay.com/photo/2016/11/29/10/07/animal-1868911_960_720.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "21",
+    "title": "Uu",
+    "phrase1": "Umbrella",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1": "https://c1.staticflickr.com/9/8587/16722739971_d43c47406e_b.jpg",
+    "image2": "",
+    "image3": ""
+  },
+  {
+    "cardid": "22",
+    "title": "Vv",
+    "phrase1": "Vase",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/1/10/State_Gifts_Blue_Vase.JPG",
+    "image2": "",
+    "image3": ""
+  },
+  {
+    "cardid": "23",
+    "title": "Ww",
+    "phrase1": "Wheel",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://www.maxpixel.net/static/photo/1x/Auto-Tires-Rubber-Wheel-Profile-Auto-Mature-Rim-2615412.jpg",
+    "image2":
+      "https://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/A-G/gray-wolf-snow.ngsversion.1466004545814.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "24",
+    "title": "Xx",
+    "phrase1": "Xylophone",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1": "https://c1.staticflickr.com/3/2109/2403813404_b1a6f6bf49.jpg",
+    "image2": "",
+    "image3": ""
+  },
+  {
+    "cardid": "25",
+    "title": "Yy",
+    "phrase1": "Yarn",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://upload.wikimedia.org/wikipedia/commons/6/60/Blue_Ball_of_Yarn.jpg",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bos_grunniens_at_Yundrok_Yumtso_Lake.jpg",
+    "image3": ""
+  },
+  {
+    "cardid": "26",
+    "title": "Zz",
+    "phrase1": "Zip",
+    "phrase2": "",
+    "phrase3": "",
+    "phrase4": "",
+    "image1":
+      "https://www.publicdomainpictures.net/pictures/100000/velka/papier-zip-1.jpg",
+    "image2":
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/Zebra_Botswana_edit.jpg",
+    "image3": ""
   }
 ]
